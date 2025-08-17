@@ -1,6 +1,6 @@
-# todo_app
+todo_app
 
-A new Flutter project.
+A Flutter-based To-Do list application that leverages the BLoC pattern for efficient and scalable state management.
 
 ## Getting Started
 
